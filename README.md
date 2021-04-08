@@ -3,7 +3,7 @@
 **Part 1:** Understanding the need of Data Visualization.
 
 
-**Part 2:** Loading and exloring the dataset.
+**Part 2:** Loading and exploring the dataset.
 
 **Part 3:**  Controlling Aesthetics & Color Palettes
 
